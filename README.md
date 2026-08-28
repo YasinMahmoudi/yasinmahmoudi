@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 - **Version Control** - Git & GitHub
 - **Build Tools** - Webpack, Vite
 - **Package Managers** - npm, composer
-- **Frontend Tools** - Ant Design, custom UI libraries
+- **Frontend Tools** - MUI, Ant Design, custom UI libraries
 - **Screen Recording** - Multimedia development
 
 ---
@@ -53,44 +53,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 
 ### 📊 [React.js CRM Dashboard](https://github.com/YasinMahmoudi/reactjs-crm-dashboard)
 **JavaScript/React** - Comprehensive customer relationship management dashboard with data visualization
-
-### 🛍️ [Shopito](https://github.com/YasinMahmoudi/shopito)
-**JavaScript** - E-commerce platform with shopping cart functionality
-
-### 🎵 [Music Player](https://github.com/YasinMahmoudi/music-player)
-**JavaScript** - Interactive music player application
-
-### ⚡ [Expense Tracker App](https://github.com/YasinMahmoudi/expense-tracker-app)
-**JavaScript** - Financial tracking and expense management application
-
-### 🌐 [Laravel Contact Landing](https://github.com/YasinMahmoudi/laravel-contact-landing)
-**Blade/Laravel** - Contact form and landing page with backend processing
-
-### 🎮 [Next.js Projects](https://github.com/YasinMahmoudi/next.js)
-**JavaScript/Next.js** - Modern React-based projects
-
-### 🎵 [Ellyrics](https://github.com/YasinMahmoudi/ellyrics)
-**JavaScript** - Lyrics search and display application
-
----
-
-## 📊 Language Distribution
-
-Based on my projects, here's my language expertise:
-
-- **JavaScript** - 65% (Primary language across most projects)
-- **CSS/SCSS** - 15% (Styling and responsive design)
-- **HTML** - 10% (Semantic markup)
-- **TypeScript** - 5% (Type-safe development)
-- **PHP/Blade** - 5% (Backend development with Laravel)
-
----
-
-## 📈 GitHub Statistics
-
-[![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasinMahmoudi&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinMahmoudi&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -111,8 +73,6 @@ I'd love to collaborate! Reach out through any of these channels:
 
 - 📧 **Email**: [Get in touch!](mailto:your-email@example.com)
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/yasinmahmoudi)
-- 🐦 **Twitter**: [Follow me](https://twitter.com/yasinmahmoudi)
-- 🌐 **Portfolio**: [View my work](https://your-portfolio.com)
 
 ---
 
@@ -139,19 +99,5 @@ I'd love to collaborate! Reach out through any of these channels:
 
 ---
 
-## 💬 Let's Collaborate!
-
-I'm always interested in:
-- ✨ **Open-source contributions**
-- 🎯 **Collaborative projects**
-- 💡 **Knowledge sharing and code reviews**
-- 🚀 **Building innovative solutions**
-- 🤝 **Mentoring and learning from others**
-
-Feel free to reach out if you'd like to discuss ideas, collaborate on projects, or just say hello!
-
----
-
 **⭐ If you find my work interesting, feel free to star my repositories!**
 
-Happy coding! 🚀
