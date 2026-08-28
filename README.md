@@ -46,16 +46,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 
 ---
 
-## 📁 Featured Projects
-
-### 🎬 [Screen Recorder](https://github.com/YasinMahmoudi/screen-recorder)
-**TypeScript** - Screen recording and multimedia application
-
-### 📊 [React.js CRM Dashboard](https://github.com/YasinMahmoudi/reactjs-crm-dashboard)
-**JavaScript/React** - Comprehensive customer relationship management dashboard with data visualization
-
----
-
 ## 💡 What I Build
 
 ✅ Full-stack web applications  
@@ -67,17 +57,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 
 ---
 
-## 🌐 Connect With Me
-
-I'd love to collaborate! Reach out through any of these channels:
-
-- 📧 **Email**: [Get in touch!](mailto:your-email@example.com)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/yasinmahmoudi)
-
----
-
-## 🎯 Current Focus
-
 ```
 🚀 What I'm working on:
 ├── Building scalable full-stack applications
@@ -86,16 +65,6 @@ I'd love to collaborate! Reach out through any of these channels:
 ├── Creating responsive, accessible UIs
 └── Expanding backend development expertise
 ```
-
----
-
-## 📚 My Development Journey
-
-- 🏁 Started with HTML, CSS, and JavaScript fundamentals
-- 📈 Progressed to React.js and modern front-end frameworks
-- 🔧 Expanded to full-stack development with Laravel & Node.js
-- 🎯 Now focusing on building production-ready applications
-- 🚀 Continuously learning and improving
 
 ---
 
