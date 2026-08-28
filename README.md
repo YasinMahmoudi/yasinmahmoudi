@@ -2,7 +2,7 @@
 
 A passionate full-stack developer specializing in modern web development and building innovative solutions.
 
----
+<br/>
 
 ## 🚀 About Me
 
@@ -12,7 +12,7 @@ A passionate full-stack developer specializing in modern web development and bui
 - 💡 Problem-solver who loves tackling complex challenges
 - 🤝 Open to collaboration and contributing to meaningful projects
 
----
+<br/>
 
 ## 🛠️ Technical Skills
 
